@@ -1,29 +1,22 @@
-Jarvish AI 🤖
+🤖 Jarvis AI Assistant
 
-An advanced AI-powered desktop voice assistant inspired by Tony Stark’s JARVIS.
+Jarvis AI is an intelligent Agentic AI-powered desktop assistant designed to automate daily workflows, improve productivity, and provide real-time conversational interaction.
 
-Jarvish AI can:
+The assistant can perform multiple automation tasks such as YouTube search, messaging support, productivity management, coding assistance, and intelligent system interactions through natural communication.
 
-🎙️ Understand voice commands
-💻 Perform laptop tasks
-🌐 Open websites and applications
-🤝 Chat like a virtual friend
-🧠 Process intelligent commands
-⚡ Automate daily desktop activities
-Features
-Voice Recognition
-Text-to-Speech
-Smart Command Processing
-Friendly Conversation Mode
-Desktop Automation
-Tech Stack
-Python
-SpeechRecognition
-pyttsx3
-OS Automation
-AI Logic
-Future Goals
-Add LLM integration
-Add memory system
-Add GUI
-Make fully autonomous AI agent.
+Jarvis AI focuses on combining automation, conversational AI, and real-world productivity workflows into a single smart assistant experience.
+
+---
+
+# ✨ Features
+
+- 🎤 Human-like conversational interaction
+- 🤖 Agentic AI-powered task execution
+- 🔍 YouTube search automation
+- 💬 Messaging assistance
+- ⚡ Productivity workflow automation
+- 🧠 AI-powered coding assistance
+- 🖥️ Desktop task management
+- 🔊 Voice interaction support
+- 🚀 Real-time intelligent responses
+- 📈 Smart workflow orchestration
