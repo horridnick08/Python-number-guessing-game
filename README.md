@@ -1,4 +1,4 @@
-# 🎮 Guess The Number Game
+🎮 Guess The Number Game
 
 A simple Python-based number guessing game created during my early Python learning journey to improve logic building and programming fundamentals.
 
@@ -6,7 +6,7 @@ The game generates a random number, and the user has to guess the correct number
 
 ---
 
-# ✨ Features
+✨ Features
 
 - 🎲 Random number generation
 - 🎮 Interactive command-line gameplay
@@ -16,7 +16,7 @@ The game generates a random number, and the user has to guess the correct number
 
 ---
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
@@ -24,7 +24,7 @@ The game generates a random number, and the user has to guess the correct number
 
 ---
 
-# 🚀 How To Run
+🚀 How To Run
 
 ```bash
 python mini_project01.py
