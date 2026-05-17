@@ -1,4 +1,4 @@
-🎮 Guess The Number Game
+# 🎮 Guess The Number Game
 
 A simple Python-based number guessing game created during my early Python learning journey to improve logic building and programming fundamentals.
 
